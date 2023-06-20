@@ -14,9 +14,20 @@ Languages and Tools
 ![API](https://img.shields.io/badge/-API-090909?style=for-the-badge&logo=API&logoColor=E5D3FF)
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=HTML&logoColor=6296CC)
 
-Socials
 
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/the_cybermania)
+Testing Documentation
+
+- [Checklist](https://docs.google.com/spreadsheets/d/1S_sDS8MT3sO_wrXlcRfFpLkrgRbNaFwfnkpvkGTAGbU/edit#gid=0)
+- [Test plan](https://docs.google.com/document/d/1WF-CGk2lRxYauXfzSVivh961ImXP5SXHvVZyF84drUQ/edit)
+- [Test-cases for the service "Pet House"](https://docs.google.com/spreadsheets/d/1C9jKk0yD13RDbIpKdn2Vcgundf9Cb37_-Err1YSr444/edit#gid=0)
+- [Test-cases for the "Rostelecom"](https://cloud.mail.ru/public/vd3M/SXN26GY5A)
+- [Bug-Reports](https://cloud.mail.ru/public/R8Bs/TYw1B2D2v)
+- [Postman Collections](https://cloud.mail.ru/public/bejZ/t63MFEfEw)
+
+
+
+
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/InessaOv)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/id17303618)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/alexeyshpavda)
 
