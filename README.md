@@ -29,7 +29,7 @@ Testing Documentation
 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/InessaOv)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/id17303618)
-[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/alexeyshpavda)
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/inessa.ov?igshid=MzNINGNkZWQ4Mg==)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=InessaOV)](https://github.com/anuraghazra/github-readme-stats)
