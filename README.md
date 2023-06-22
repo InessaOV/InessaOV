@@ -32,4 +32,4 @@ Testing Documentation
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/inessa.ov?igshid=MzNINGNkZWQ4Mg==)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=InessaOV)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=InessaOV&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
