@@ -13,6 +13,7 @@ Languages and Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 ![API](https://img.shields.io/badge/-API-090909?style=for-the-badge&logo=API&logoColor=E5D3FF)
 ![DBeaver](https://img.shields.io/badge/-DBeaver-090909?style=for-the-badge&logo=DBeaver&logoColor=6296CC)
+![DevTools](https://img.shields.io/badge/-DevTools-090909?style=for-the-badge&logo=DevTools&logoColor=6296CC)
 
 
 Testing Documentation
