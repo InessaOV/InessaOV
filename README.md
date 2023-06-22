@@ -4,6 +4,8 @@
 
 About me
 
+Graduated from the Skillfactory, Course "Manual Testing Engineer"
+
 Languages and Tools
 
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=Postman&logoColor=47C5FB)
